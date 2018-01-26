@@ -1,3 +1,9 @@
+Release Notes 0.0.1
+
+-Forked from Forknote
+-changed all instances of forknote to goldhog
+-changed seed nodes
+
 Release notes 2.1.2
 
 - Updated crawler public key
